@@ -44,13 +44,25 @@ print(data_frame.values)
 # Print the index of the combined data frame
 print(data_frame.index)
 
-# Do some data visualization with seaborn
+import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Do some data visualization with seaborn
-sns.pairplot(data_frame)
+# Most landed on spaces
+most_landed = data_frame.nlargest(10, 'landed_count')
+sns.barplot(x='Count', y='Space Name', data=most_landed)
+plt.title('Top 10 Most Landed On Spaces')
+plt.show()
 
-# Show the plot
+# Least landed on spaces
+least_landed = data_frame.nsmallest(10, 'landed_count')
+sns.barplot(x='Count', y='Space Name', data=least_landed)
+plt.title('Top 10 Least Landed On Spaces')
+plt.show()
+
+# Spaces ranked from most landed on to the least
+sorted_spaces = data_frame.sort_values('landed_count', ascending=False)
+sns.barplot(x='Count', y='Space Name', data=sorted_spaces)
+plt.title('Spaces Ranked From Most Landed On to Least')
 plt.show()
 
 
