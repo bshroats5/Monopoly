@@ -30,7 +30,7 @@ print(data_frame.tail())
 # creating the data visualizations
 # Most landed on spaces
 most_landed = data_frame.nlargest(10, 'Count')
-sns.barplot(x='Count', y='Space Name', data=most_landed)
+sns.scatterplot(x='Count', y='Space Name', data=most_landed)
 plt.title('Top 10 Most Landed On Spaces')
 plt.show()
 
