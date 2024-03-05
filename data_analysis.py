@@ -15,6 +15,9 @@ data_set3 = pd.read_csv('Monopoly_Simulator_Counts.csv')
 # Combine the three data sets into one data frame
 data_frame = pd.concat([data_set1, data_set2, data_set3])
 
+# Print the combined data frame
+print(data_frame)
+
 # Save the combined data frame to a new CSV file
 data_frame.to_csv('new_data.csv', index=True)
 
