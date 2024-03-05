@@ -1,0 +1,41 @@
+Space Name,Family,Frequency,Price,Improvement Cost,Utility Rent,Railroad Rent,Property Rent,Rent with Set,Rent 1 House,2 Houses,3 Houses,4 Houses,Hotel
+Atlantic Ave,Yellow,2.453%,260,150,0,0,22,44,110,330,800,975,1150
+B & O Railroad,Railroads,2.832%,200,0,0,25,0,0,0,0,0,0,0
+Baltic Ave,Purple,1.975%,60,50,0,0,4,8,20,60,180,320,450
+Boardwalk,Dark Blue,2.337%,400,200,0,0,50,100,200,600,1400,1700,2000
+Chance #1,Cards,2.103%,0,0,0,0,0,0,0,0,0,0,0
+Chance #2,Cards,2.657%,0,0,0,0,0,0,0,0,0,0,0
+Chance #3,Cards,2.153%,0,0,0,0,0,0,0,0,0,0,0
+Community Chest #1,Cards,2.040%,0,0,0,0,0,0,0,0,0,0,0
+Community Chest #2,Cards,2.673%,0,0,0,0,0,0,0,0,0,0,0
+Community Chest #3,Cards,2.458%,0,0,0,0,0,0,0,0,0,0,0
+Connecticut Ave,Light Blue,2.133%,120,50,0,0,8,16,40,100,300,450,600
+Electric Company,Utilities,2.205%,150,0,7,0,0,0,0,0,0,0,0
+Free Parking,Corners,2.700%,0,0,0,0,0,0,0,0,0,0,0
+Go,Corners,2.905%,0,0,0,0,0,0,0,0,0,0,0
+Go To Jail,Corners,2.422%,0,0,0,0,0,0,0,0,0,0,0
+Illinois Ave,Red,2.992%,240,150,0,0,20,40,100,300,750,925,1100
+Income Tax,Tax,2.132%,0,0,0,0,0,0,0,0,0,0,0
+Indiana Ave,Red,2.475%,220,150,0,0,18,36,90,250,700,875,1050
+Jail,Corners,5.752%,0,0,0,0,0,0,0,0,0,0,0
+Kentucky Ave,Red,2.642%,220,150,0,0,18,36,90,250,700,875,1050
+Luxury Tax,Tax,2.090%,0,0,0,0,0,0,0,0,0,0,0
+Marvin Gardens,Yellow,2.408%,280,150,0,0,24,48,120,360,850,1025,1200
+Mediterranean Ave,Purple,2.017%,60,50,0,0,2,4,10,30,90,160,250
+New York Ave,Orange,2.767%,200,100,0,0,16,32,80,220,600,800,1000
+North Carolina Ave,Green,2.445%,300,200,0,0,26,52,130,390,900,1100,1275
+Oriental Ave,Light Blue,2.122%,100,50,0,0,6,12,30,90,270,400,550
+Pacific Ave,Green,2.457%,300,200,0,0,26,52,130,390,900,1100,1275
+Park Place,Dark Blue,1.930%,350,200,0,0,35,70,175,500,1100,1300,1500
+Pennsylvania Ave,Green,2.328%,320,200,0,0,28,56,150,450,1000,1200,1400
+Pennsylvania Railroad,Railroads,2.735%,200,0,0,25,0,0,0,0,0,0,0
+Reading Railroad,Railroads,2.737%,200,0,0,25,0,0,0,0,0,0,0
+Short Line,Railroads,2.238%,200,0,0,25,0,0,0,0,0,0,0
+St. Charles Place,Magenta,2.553%,140,100,0,0,10,20,50,150,450,625,750
+St. James Place,Orange,2.640%,180,100,0,0,14,28,70,200,550,750,950
+States Ave,Magenta,2.318%,140,100,0,0,10,20,50,150,450,625,750
+Tennessee Ave,Orange,2.628%,180,100,0,0,14,28,70,200,550,750,950
+Ventnor Ave,Yellow,2.517%,260,150,0,0,22,44,110,330,800,975,1150
+Vermont Ave,Light Blue,2.208%,100,50,0,0,6,12,30,90,270,400,550
+Virginia Ave,Magenta,2.402%,160,100,0,0,12,24,60,180,500,700,900
+Water Works,Utilities,2.422%,150,0,7,0,0,0,0,0,0,0,0
