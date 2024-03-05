@@ -19,7 +19,7 @@ data_frame = pd.concat([data_set1, data_set2, data_set3])
 print(data_frame)
 
 # Save the combined data frame to a new CSV file
-data_frame.to_csv('new_data.csv', index=True)
+data_frame.to_csv('new_data.csv', index=False)
 
 # creating the data visualizations
 # Most landed on spaces
