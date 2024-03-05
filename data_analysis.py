@@ -15,10 +15,22 @@ data_set3 = pd.read_csv('Monopoly_Simulator_Counts.csv')
 # Combine the three data sets into one data frame
 data_frame = pd.concat([data_set1, data_set2, data_set3])
 
+# Print the combined data frame
+print(data_frame)
+
+# Save the combined data frame to a new CSV file
+data_frame.to_csv('new_data.csv', index=True)
+
+# Print the first 5 rows of the combined data frame
+print(data_frame.head())
+
+# Print the last 5 rows of the combined data frame
+print(data_frame.tail())
+
 # creating the data visualizations
 # Most landed on spaces
 most_landed = data_frame.nlargest(10, 'Count')
-sns.scatterplot(x='Count', y='Space Name', data=most_landed)
+sns.barplot(x='Count', y='Space Name', data=most_landed)
 plt.title('Top 10 Most Landed On Spaces')
 plt.show()
 
