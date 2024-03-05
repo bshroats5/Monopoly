@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 # Import the first data set
@@ -26,41 +27,21 @@ print(data_frame.head())
 # Print the last 5 rows of the combined data frame
 print(data_frame.tail())
 
-# Print the summary statistics of the combined data frame
-print(data_frame.describe())
-
-# Print the shape of the combined data frame
-print(data_frame.shape)
-
-# Print the column names of the combined data frame
-print(data_frame.columns)
-
-# Print the index of the combined data frame
-print(data_frame.index)
-
-# Print the values of the combined data frame
-print(data_frame.values)
-
-# Print the index of the combined data frame
-print(data_frame.index)
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-
+# creating the data visualizations
 # Most landed on spaces
-most_landed = data_frame.nlargest(10, 'landed_count')
+most_landed = data_frame.nlargest(10, 'Count')
 sns.barplot(x='Count', y='Space Name', data=most_landed)
 plt.title('Top 10 Most Landed On Spaces')
 plt.show()
 
 # Least landed on spaces
-least_landed = data_frame.nsmallest(10, 'landed_count')
+least_landed = data_frame.nsmallest(10, 'Count')
 sns.barplot(x='Count', y='Space Name', data=least_landed)
 plt.title('Top 10 Least Landed On Spaces')
 plt.show()
 
 # Spaces ranked from most landed on to the least
-sorted_spaces = data_frame.sort_values('landed_count', ascending=False)
+sorted_spaces = data_frame.sort_values('Count', ascending=False)
 sns.barplot(x='Count', y='Space Name', data=sorted_spaces)
 plt.title('Spaces Ranked From Most Landed On to Least')
 plt.show()
