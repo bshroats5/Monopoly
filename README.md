@@ -16,3 +16,8 @@ The first question was what is the most valuable color set to buy in the game. I
 The second question is the inverse of the first question. What is the worst property to invest in during the game? My assumption had always been it was the Brown color set but again wanted a data driven decision to confirm my belief.
 
 The third question was if I am unavailable then what color sets should I go after or to try and collect to give my self the best chance to win.
+
+# Sources
+
+Data World
+https://data.world/dataremixed/monopoly-board-frequencies-and-economics
