@@ -1,0 +1,14 @@
+Field Name,Data Type,Description,Allowable Values,Example
+Property_Name,Text (50),Name of the property on the Monopoly Board,"Baltic Avenue, Boardwalk, Reading Railroad, etc.",Park Place
+Property_Group,Text (20),The color group the property belongs to,"Brown, Light Blue, Purple, Orange, etc.",Red
+Cost,Integer,Purchase price of the property,Positive Integers,200
+Rent_Unimproved,Integer,Rent owed if no houses/hotels are built,Positive Integers,16
+Rent_House_1,Integer,Rent owed with one house built,Positive Integers,80
+Rent_House_2,Integer,Rent owed with two houses built,Positive Integers,220
+Rent_House_3,Integer,Rent owed with three houses built,Positive Integers,600
+Rent_House_4,Integer,Rent owed with four houses built,Positive Integers,800
+Rent_Hotel,Integer,Rent owed with a hotel built,Positive Integers,1000
+House_Cost,Integer,Cost to build a house on the property,Positive Integers,50
+Hotel_Cost,Integer,Cost to build a hotel on the property,Positive Integers,50 (plus cost of 4 houses)
+Mortgage_Value,Integer,Amount received when mortgaging the property,Positive Integers,100
+Card_Deck,Text (20),Indicates if property is from Chance or Community Chest,"Chance, Community Chest",Community Chest
