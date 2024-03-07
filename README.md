@@ -17,6 +17,12 @@ The second question is the inverse of the first question. What is the worst prop
 
 The third question was if I am unavailable then what color sets should I go after or to try and collect to give my self the best chance to win.
 
+# Results
+
+What I learned was out of 60,000 rolls of dice that Jail was the most landed on space. It makes sense because there are many ways to land on that space vs the other properties only have 1 or 2 ways to land on them. I had always thought that the Orange properties were the best properties and the data confirmed that hypothesis. All three orange properties appear in the top 12 in the most landed on properties. The railroads also are great properties to invest in as they are among the most landed on properties. 
+
+The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and COmmunity Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. 
+
 # Sources
 
 Data World
