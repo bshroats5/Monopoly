@@ -19,9 +19,9 @@ The third question was if I am unavailable then what color sets should I go afte
 
 # Results
 
-What I learned was out of 60,000 rolls of dice that Jail was the most landed on space. It makes sense because there are many ways to land on that space vs the other properties only have 1 or 2 ways to land on them. I had always thought that the Orange properties were the best properties and the data confirmed that hypothesis. All three orange properties appear in the top 12 in the most landed on properties. The railroads also are great properties to invest in as they are among the most landed on properties. 
+What I learned was out of 60,000 rolls of dice that Jail was the most landed on space. It makes sense because there are many ways to land on that space vs the other properties only have 1 or 2 ways to land on them. I had always thought that the Orange properties were the best properties and the data confirmed that hypothesis. All three orange properties appear in the top 12 in the most landed on properties.The railroads also are great properties to invest in as they are among the most landed on properties. The one downfall to the railroads is they max out at $200 if you own all of them. However, you can get up to $2,000 if you have a hotel on an orange property.  
 
-The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and COmmunity Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. 
+The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and Community Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. The biggest temptation in the game is the dark blue properties (Park Place and Boardwalk). However, that is a bad idea. They are the second least landed on properties. 
 
 # Sources
 
