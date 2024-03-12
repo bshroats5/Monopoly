@@ -5,7 +5,7 @@ I wanted to do this project after I lost a game to my 7 year old daughter and I 
 
 # Method
 
-The first thing I did was go out and find some data and I feel I hit the jackpot. I found some data sets that featured over 60,000 games recorded over an time. My original plan was to include some data from the Monopoly app on my phone but that was not needed after hitting the data jackpot. The challenge was to sift through the data and see exactly what data was needed. 
+The first thing I did was go out and find some data and I feel I hit the jackpot. I found some data sets that featured over 60,000 games recorded over a time. My original plan was to include some data from the Monopoly app on my phone but that was not needed after hitting the data jackpot. The challenge was to sift through the data and see exactly what data was needed. 
 
 The next step was to clean the data and transform it to into one data set. 
 
@@ -16,6 +16,33 @@ The first question was what is the most valuable color set to buy in the game. I
 The second question is the inverse of the first question. What is the worst property to invest in during the game? My assumption had always been it was the Brown color set but again wanted a data driven decision to confirm my belief.
 
 The third question was if I am unavailable then what color sets should I go after or to try and collect to give my self the best chance to win.
+
+# Virtual Enviroment
+
+What is a Virtual Environment? A virtual environment is a self-contained Python environment that isolates your project from the system-wide Python installation. It allows you to manage dependencies, install packages, and avoid conflicts between different projects.
+
+Creating a Virtual Environment Using venv (Python 3.3+):
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to create your virtual environment.
+3. Run the following command:
+  python -m venv myenv
+  Replace myenv with your desired environment name.
+
+Activating the Virtual Environment:
+On Windows:
+myenv\Scripts\activate
+
+On macOS/Linux:
+source myenv/bin/activate
+
+Deactivating the Virtual Environment: Simply run:
+deactivate
+
+Benefits of Using Virtual Environments:
+Isolation: Your project won’t interfere with the system Python or other virtual environments.
+Multiple Python Versions: Easily create environments for different Python versions.
+No Admin Privileges Needed: Install packages without admin rights.
+Replicability: Share your environment setup with other developers.
 
 # Results
 
