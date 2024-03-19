@@ -5,7 +5,7 @@ I wanted to do this project after I lost a game to my 7 year old daughter and I 
 
 # Method
 
-The first thing I did was go out and find some data and I feel I hit the jackpot. I found some data sets that featured over 60,000 games recorded over an time. My original plan was to include some data from the Monopoly app on my phone but that was not needed after hitting the data jackpot. The challenge was to sift through the data and see exactly what data was needed. 
+The first thing I did was go out and find some data and I feel I hit the jackpot. I found some data sets that featured over 60,000 games recorded over a time. My original plan was to include some data from the Monopoly app on my phone but that was not needed after hitting the data jackpot. The challenge was to sift through the data and see exactly what data was needed. 
 
 The next step was to clean the data and transform it to into one data set. 
 
@@ -17,11 +17,38 @@ The second question is the inverse of the first question. What is the worst prop
 
 The third question was if I am unavailable then what color sets should I go after or to try and collect to give my self the best chance to win.
 
+# Virtual Enviroment
+
+What is a Virtual Environment? A virtual environment is a self-contained Python environment that isolates your project from the system-wide Python installation. It allows you to manage dependencies, install packages, and avoid conflicts between different projects.
+
+Creating a Virtual Environment Using venv (Python 3.3+):
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to create your virtual environment.
+3. Run the following command:
+  python -m venv myenv
+  Replace myenv with your desired environment name.
+
+Activating the Virtual Environment:
+On Windows:
+myenv\Scripts\activate
+
+On macOS/Linux:
+source myenv/bin/activate
+
+Deactivating the Virtual Environment: Simply run:
+deactivate
+
+Benefits of Using Virtual Environments:
+Isolation: Your project won’t interfere with the system Python or other virtual environments.
+Multiple Python Versions: Easily create environments for different Python versions.
+No Admin Privileges Needed: Install packages without admin rights.
+Replicability: Share your environment setup with other developers.
+
 # Results
 
-What I learned was out of 60,000 rolls of dice that Jail was the most landed on space. It makes sense because there are many ways to land on that space vs the other properties only have 1 or 2 ways to land on them. I had always thought that the Orange properties were the best properties and the data confirmed that hypothesis. All three orange properties appear in the top 12 in the most landed on properties. The railroads also are great properties to invest in as they are among the most landed on properties. 
+What I learned was out of 60,000 rolls of dice that Jail was the most landed on space. It makes sense because there are many ways to land on that space vs the other properties only have 1 or 2 ways to land on them. I had always thought that the Orange properties were the best properties and the data confirmed that hypothesis. All three orange properties appear in the top 12 in the most landed on properties.The railroads also are great properties to invest in as they are among the most landed on properties. The one downfall to the railroads is they max out at $200 if you own all of them. However, you can get up to $2,000 if you have a hotel on an orange property.  
 
-The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and COmmunity Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. 
+The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and Community Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. The biggest temptation in the game is the dark blue properties (Park Place and Boardwalk). However, that is a bad idea. They are the second least landed on properties. 
 
 # Sources
 
