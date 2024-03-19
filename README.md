@@ -50,6 +50,10 @@ What I learned was out of 60,000 rolls of dice that Jail was the most landed on 
 
 The Utilities are not great properties to land on as they are not landed on as often. Surprisingly, the Chance Cards and Community Chests cards are not landed on often. One result that surprised me was the Income Tax and Luxury Tax not being landed on. That confirms my life analysis of just constantly having bad luck as I am always landing on those penalties. The biggest temptation in the game is the dark blue properties (Park Place and Boardwalk). However, that is a bad idea. They are the second least landed on properties. 
 
+# Visuals
+
+For more visuals please visit my Tableau page at https://public.tableau.com/app/profile/bret.shroats/vizzes
+
 # Sources
 
 Data World
